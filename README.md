@@ -3,7 +3,7 @@
 [팀 과제 저장소 주소](https://github.com/whdPdms04/2024-OSS-team2)
 
 ## 팀명
-2조
+###2조
 
 ## 팀원
 - 조예은 [@20241485](https://github.com/20241485)
