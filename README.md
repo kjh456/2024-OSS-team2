@@ -1,11 +1,9 @@
-# 2024-OSS-team2
-## 오픈소스 소프트웨어 팀 과제 저장소
-[팀 과제 저장소 주소](https://github.com/whdPdms04/2024-OSS-team2)
+# 오픈소스 소프트웨어 팀 과제 저장소 🌱
 
 ## 팀명
-2조
+2조 💞️
 
-## 팀원
+## 팀원 이름 및 팀원 깃허브 주소👋
 - 조예은 [@20241485](https://github.com/20241485)
 - 정서연 [@wjdtjdus](https://github.com/wjdtjdus)
 - 김종호 [@kjh456](https://github.com/kjh456/git)
